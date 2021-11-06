@@ -9,7 +9,21 @@ h1 {
     margin left: 15px;
 
 }
-
+.navbar {
+        width: 90%;
+        height: 100px;
+        background-color:black;
+        font-size: x-large;
+        color: white;
+        text-align: center;
+        display: flex;
+        flex-direction: row;
+        justify-content: space-around;
+        place-items: center;
+        border: 2px solid rgb(60, 243, 121);
+        margin left:px
+        margin right: px;
+    }
 body {
     background-color:black;
     margin-top: 20px;
@@ -64,20 +78,7 @@ p {
 
 .content {width: 25%}
 
-.navbar {
-        width: 1000px;
-        height: 100px;
-        background-color: #b3ec8d;
-        font-size: x-large;
-        color: white;
-        text-align: center;
-        margin: 10px 5px;
-        display: flex;
-        flex-direction: row;
-        justify-content: space-around;
-        place-items: center;
-        border: 2px solid rgb(60, 243, 121);
-    }
+
 
 .contacts {
     border-bottom: 2px;
@@ -102,5 +103,5 @@ p {
 }
 h4 {
   color: white;
-  
+
 }
