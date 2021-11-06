@@ -22,17 +22,44 @@ img {
     height: 200px;
 }
 p {
-    padding-right: 10px;
-    padding-left: 10px;
-  
+    padding-right: 0px;
+    padding-left: 0px;
     font-style: normal;
     font-family: 'Franklin Gothic normal';
     padding-top: 0px;
-    text-align: center;
-   margin-left: 60px;
-
+    text-align: none;
+   margin-left: 0px;
 
 }
+.box {
+  float: left;
+  margin-left:15px;
+  width: 150px;
+  height: 40%;
+  border-radius: 5px;
+  background-color: orange;
+  padding: 1em;
+
+}
+.box2 {
+  float: left;
+  margin-left:300px;
+  width: 250px;
+  height: 40%;
+  border-radius: 5px;
+  background-color: beige;
+  padding: 30px;
+}
+.box3 {
+  float: right;
+  margin-left: 100px;
+  width: 150px;
+  height: 50%;
+  border-radius: 5px;
+  background-color: red;
+  padding: 40px;
+}
+
 .content {width: 25%}
 
 .navbar {
@@ -69,22 +96,4 @@ p {
     float: none;
     image-rendering: auto;
     border-radius: 8px;
-}
-.sidebar0 {
-    widt: 20px;
-    height: 10%;
-    float: right;
-    background-color: Orange;
-}
-.sidebar {
-    widt: 20px;
-    height: 10%;
-    float: right;
-    background-color: Beige;
-}
-.sidebar2 {
-  float: left;
-  widt: 20px;
-  height: 10%;
-  background-color: green;
 }
