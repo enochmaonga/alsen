@@ -6,17 +6,15 @@ h1 {
     padding: 2px;
     border: 2px solid black;
     text-align-last: center;
-    
+
 }
 
 body {
     background-color: rgb(180, 170, 177);
     margin-top: 20px;
-    padding-left: 100px;
-    padding-top: 50px;
-    padding-right: 100px;
-    page-break-inside: auto;
-  
+
+
+
 }
 img {
     float: center;
@@ -24,19 +22,16 @@ img {
     height: 200px;
 }
 p {
-    float: center;
     padding-right: 10px;
     padding-left: 10px;
-    width: 70%;
-    height: 40px;
-    border-radius: 10px;
+  
     font-style: normal;
     font-family: 'Franklin Gothic normal';
     padding-top: 0px;
     text-align: center;
    margin-left: 60px;
 
-    
+
 }
 .content {width: 25%}
 
@@ -54,11 +49,11 @@ p {
         place-items: center;
         border: 2px solid rgb(60, 243, 121);
     }
-   
+
 .contacts {
     border-bottom: 2px;
     text-align: center;
-    
+
 }
 
 .nav {
@@ -75,4 +70,21 @@ p {
     image-rendering: auto;
     border-radius: 8px;
 }
-
+.sidebar0 {
+    widt: 20px;
+    height: 10%;
+    float: right;
+    background-color: Orange;
+}
+.sidebar {
+    widt: 20px;
+    height: 10%;
+    float: right;
+    background-color: Beige;
+}
+.sidebar2 {
+  float: left;
+  widt: 20px;
+  height: 10%;
+  background-color: green;
+}
