@@ -1,17 +1,19 @@
 h1 {
-    color: white;
-    background-color: #38CC77;
+    color: black;
+    background-color:blanchedalmond;
     height: 40px;
-    width: 1000px;
+    width: 100%;
     padding: 2px;
     border: 2px solid black;
     text-align-last: center;
+    margin left: 15px;
 
 }
 
 body {
-    background-color: rgb(180, 170, 177);
+    background-color:black;
     margin-top: 20px;
+
 
 
 
@@ -34,29 +36,29 @@ p {
 .box {
   float: left;
   margin-left:15px;
-  width: 150px;
-  height: 40%;
+  width: 250px;
+  height: 50%;
   border-radius: 5px;
-  background-color: orange;
+  background-color: beige;
   padding: 1em;
 
 }
 .box2 {
   float: left;
-  margin-left:300px;
+  margin-left:150px;
   width: 250px;
-  height: 40%;
+  height: 44%;
   border-radius: 5px;
   background-color: beige;
   padding: 30px;
 }
 .box3 {
   float: right;
-  margin-left: 100px;
-  width: 150px;
-  height: 50%;
+  margin-right:80px;
+  width: 250px;
+  height: 40%;
   border-radius: 5px;
-  background-color: red;
+  background-color: beige;
   padding: 40px;
 }
 
@@ -80,6 +82,7 @@ p {
 .contacts {
     border-bottom: 2px;
     text-align: center;
+    font color: white;
 
 }
 
@@ -96,4 +99,8 @@ p {
     float: none;
     image-rendering: auto;
     border-radius: 8px;
+}
+h4 {
+  color: white;
+  
 }
