@@ -24,12 +24,10 @@ h1 {
         margin left:px
         margin right: px;
     }
+
 body {
-    background-color:black;
+    background-color:white;
     margin-top: 20px;
-
-
-
 
 }
 img {
@@ -75,11 +73,20 @@ p {
   background-color: beige;
   padding: 40px;
 }
-
-.content {width: 25%}
-
-
-
+.enoch {
+  width: 90%;
+  float: left;
+  display: flex;
+  flex-direction: row;
+  margin-top:40px;
+  margin-left:10px;
+  margin-right:10px;
+  width: 250px;
+  height: 59%;
+  border-radius: 5px;
+  padding-top: 20px;
+  padding-right: 10px;
+}
 .contacts {
     border-bottom: 2px;
     text-align: center;
@@ -104,8 +111,4 @@ p {
 h4 {
   color: white;
 
-}
-.my projects {
-  text-align: center;
-  font color: white;
 }
