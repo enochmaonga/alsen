@@ -108,6 +108,9 @@ p {
     image-rendering: auto;
     border-radius: 8px;
 }
+.list {
+  text color: white
+}
 h4 {
   color: white;
 
