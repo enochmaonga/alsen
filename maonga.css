@@ -110,6 +110,11 @@ p {
 }
 .list {
   text color: white
+  backgroundColor: blue;
+
+}
+.ol {
+  font-style: italic;
 }
 h4 {
   color: white;
