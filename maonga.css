@@ -1,0 +1,134 @@
+h1 {
+    color: black;
+    background-color:blanchedalmond;
+    height: 40px;
+    width: 100%;
+    padding: 2px;
+    border: 2px solid black;
+    text-align-last: center;
+    margin left: 15px;
+
+}
+.navbar {
+        width: 90%;
+        height: 100px;
+        background-color:black;
+        font-size: x-large;
+        color: white;
+        text-align: center;
+        display: flex;
+        flex-direction: row;
+        justify-content: space-around;
+        place-items: center;
+        border: 2px solid rgb(60, 243, 121);
+        margin left:px
+        margin right: px;
+    }
+.myprojects {
+      text color: white;
+      font color: white;
+    }
+
+body {
+    background-color:black;
+    margin-top: 20px;
+
+}
+img {
+    float: center;
+    width: 200px;
+    height: 200px;
+}
+p {
+    padding-right: 0px;
+    padding-left: 0px;
+    font-style: normal;
+    font-family: 'Franklin Gothic normal';
+    padding-top: 0px;
+    text-align: none;
+   margin-left: 0px;
+
+}
+.box {
+  float: left;
+  margin-left:15px;
+  width: 250px;
+  height: 50%;
+  border-radius: 5px;
+  background-color: beige;
+  padding: 1em;
+
+}
+.box2 {
+  float: left;
+  margin-left:150px;
+  width: 250px;
+  height: 44%;
+  border-radius: 5px;
+  background-color: beige;
+  padding: 30px;
+}
+.box3 {
+  float: right;
+  margin-right:80px;
+  width: 250px;
+  height: 40%;
+  border-radius: 5px;
+  background-color: beige;
+  padding: 40px;
+}
+
+.enoch {
+  float: right;
+  width: 20%;
+  padding:5px;
+  display: row;
+  margin-top: 20px;
+  margin-right: 4%
+}
+
+.contacts {
+    border-bottom: 2px;
+    text-align: center;
+    font color: white;
+
+}
+
+.nav {
+    color: white;
+    background-color: #38CC77;
+    height: 40px;
+    width: 90px;
+    padding: 2px;
+    text-decoration: none;
+    border: 3px solid blanchedalmond
+}
+.works {
+    float: none;
+    image-rendering: auto;
+    border-radius: 8px;
+}
+h3 {
+  box-sizing: border-box;
+  border
+}
+.ol {
+  font-style: italic;
+}
+h4 {
+  color: white;
+
+}
+.list {
+    border-bottom: 2px;
+    text-align: left;
+    font-style: normal;
+    float: left;
+    margin-right:80px;
+    margin-left: 20px;
+    width: 1100px;
+    height: 60%;
+    border-radius: 5px;
+    background-color: skyblue;
+    padding: 40px;
+}
